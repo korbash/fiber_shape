@@ -1,0 +1,19 @@
+{
+    "notebook.output.textLineLimit": 60,
+    "python.formatting.provider": "yapf",
+    "editor.minimap.enabled": false,
+    "editor.semanticHighlighting.enabled": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "string.quoted.docstring.multi.python",
+                ],
+                "settings": {
+                    "fontStyle": "italic",
+                    "foreground": "#0088FF",
+                }
+            },
+        ]
+    }
+}

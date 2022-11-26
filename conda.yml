@@ -1,0 +1,8 @@
+name: webcam
+dependencies:
+  - python=3.10
+  - yapf
+  - pip
+  - jupyterlab
+  - pip:
+    - -r requirements.txt

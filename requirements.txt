@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+scipy
+scikit-learn
+opencv-python
+xarray
+holoviews
+bokeh
+matplotlib
+
+
